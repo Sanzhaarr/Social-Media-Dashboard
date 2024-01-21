@@ -1,4 +1,4 @@
-The notion behind this project is to allow social-media influencers to track their metrics, and create content according to evaluated results.
+The notion behind this project is to allow social-media influencers to track their metrics, and create content according to evaluated results(trends).
 
 # Backend Stack
 
