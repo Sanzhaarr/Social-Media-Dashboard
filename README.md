@@ -8,7 +8,9 @@ Java
  - Spring Data JPA
  - Reactive Spring
  - Spring Security
+   
 Database
   - PostgreSQL
+
 Python
   - Data science(predicting trends according to activity of users)
